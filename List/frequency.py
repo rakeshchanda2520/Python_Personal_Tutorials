@@ -1,3 +1,5 @@
+
+#Added comments
 def frequency(list1):
     dictionary={}
     for word in list1:
